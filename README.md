@@ -4,9 +4,6 @@
 [To **Download⬇️⬇️** the App click here📱📱](https://drive.google.com/file/d/1LQ5s2F_vKFZoIug3JCW50eCdqhKAoiqf/view?usp=share_link)  
 
 Visit the website : [Click Here](https://assnake-5e577.web.app/#/)
-###### Promo Video📽️📽️ :- [Watch on Youtube](https://www.youtube.com/watch?v=yJDTbuAsESw)
-A new Flutter project.
-
 
 ## Installation
 After cloning this repository, migrate to ```assnake``` folder. Then, follow the following steps:
