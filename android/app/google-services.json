@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "524848728792",
+    "project_id": "assnake-5e577",
+    "storage_bucket": "assnake-5e577.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524848728792:android:cbbe54b8889c09f5bb65ad",
+        "android_client_info": {
+          "package_name": "com.example.assnake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524848728792-mli00r214aor1s16ia172ei96ov7dg8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2wawS2Q2vo4MkG5t9YrTf2YOb3cMitdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524848728792-mli00r214aor1s16ia172ei96ov7dg8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
